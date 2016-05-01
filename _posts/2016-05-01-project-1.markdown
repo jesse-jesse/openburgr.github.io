@@ -1,0 +1,15 @@
+---
+title: First burgr!
+subtitle: At grill'd
+layout: default
+modal-id: 1
+date: 2016-05-01
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: May 206
+client: Start Bootstrap
+category: Web Development
+description: At the meetup we discovered that the best thing about ... is that we 
+
+---
