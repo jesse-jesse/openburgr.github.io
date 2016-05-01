@@ -5,9 +5,9 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 # How to use
 
-###Portfolio 
+###past-meets
 
-Portfolio projects are in '/_posts'
+Past meets are stored in are in '/_posts'
 
 Images are in '/img/portfolio'
 
@@ -20,6 +20,8 @@ Images are in '/img/about/'
 Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
+
+
 
 
 # Demo
